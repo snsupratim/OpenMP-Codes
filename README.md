@@ -26,3 +26,4 @@ To compile and run OpenMP code, you need to use a compiler that supports OpenMP.
 1. **Using GCC**:
    ```bash
    gcc -fopenmp -o program_name program_name.c
+   ./program_name
