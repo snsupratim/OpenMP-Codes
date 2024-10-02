@@ -6,8 +6,6 @@ Welcome to this repository, where you'll find OpenMP code examples and implement
 
 1. [Introduction to OpenMP](#introduction-to-openmp)
 2. [Compiling and Running OpenMP Code](#compiling-and-running-openmp-code)
-3. [Example Code](#example-code)
-4. [Troubleshooting](#troubleshooting)
 
 ## Introduction to OpenMP
 
