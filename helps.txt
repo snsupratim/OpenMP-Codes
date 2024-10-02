@@ -1,0 +1,3 @@
+## change according to your program file name...
+complie cmd: gcc -fopenmp hello.c -o hello
+run cmd: .\ hello 
