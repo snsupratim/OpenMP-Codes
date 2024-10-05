@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <omp.h>
 
-#define N 100 // Define the size of the matrices
+#define N 10 // Define the size of the matrices
 
 void matrix_multiply(int a[N][N], int b[N][N], int c[N][N]) {
     int i, j, k;
